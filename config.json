@@ -1,0 +1,11 @@
+{
+    "paths":{
+        "importsFilePath": "imports",
+        "exportsFilePath": "exports",
+        "csvHeaders":[ "ticker", "last","timestamp","open","high","low","percent_change_24","bid", "ask","side","open_24", "volume","vwap"],
+        "csvHeadersToCompare":[ "ticker", "old cost","current cost", "old date","current date", "cost low/high"]
+    },
+    "baseUrl":{
+
+    }
+}
